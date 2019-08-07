@@ -36,5 +36,8 @@
             "name": "Fred Cox",
             "email": "mcfedr@gmail.com"
         }
-    ]
+    ],
+    "replace": {
+        "ekreative/health-check-bundle": "*"
+    }
 }
