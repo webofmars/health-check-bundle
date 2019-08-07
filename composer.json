@@ -1,5 +1,5 @@
 {
-    "name": "ekreative/health-check-bundle",
+    "name": "webofmars/health-check-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "A bundle that provides a simple /healthcheck route",
